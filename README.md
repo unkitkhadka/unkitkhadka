@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uankitkhadka
-- 👀 I’m interested in webdevloping and android appdevlopment
+- 👀 I’m interested in web devloping and android app devlopment
 - 🌱 I’m currently learning c,c++,java,html,css,javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
